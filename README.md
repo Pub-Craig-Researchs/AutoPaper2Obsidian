@@ -202,10 +202,6 @@ Output:
 
 </details>
 
-## License
-
-MIT
-
 ## Credits
 
 - [MinerU](https://github.com/opendatalab/MinerU) — PDF parsing engine
